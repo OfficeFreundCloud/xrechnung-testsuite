@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This is a copy of the `master` branch from <https://github.com/itplr-kosit/xrechnung-testsuite>. Side branch named `dev` for consistency. Make sure to merge from the `master` branch of the upstream repository when it's updated.
+
 # XRechnung Test Suite
 
 Die XRechnung Test Suite hat zum Ziel, bei den Herstellenden und Betreibenden von IT-Fachverfahren
